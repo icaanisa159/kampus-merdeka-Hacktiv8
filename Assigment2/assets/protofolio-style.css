@@ -1,0 +1,102 @@
+body {
+  background-color: beige;
+}
+
+.nav-brand {
+  font-weight: bold;
+}
+
+.card1 {
+  display: flex;
+  padding: 30px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+img {
+  display: inline;
+  width: 170px;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+
+#sidebar {
+  display: flex;
+  width: 360px;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+  margin-left: 700px;
+}
+
+.btn {
+  font-family: sans-serif;
+  font-size: 1em;
+  padding: 0.6rem 0.6rem;
+  text-decoration: none;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background: grey;
+}
+
+.btn1 {
+  font-family: sans-serif;
+  font-size: 1em;
+  padding: 0.6rem 0.6rem;
+  text-decoration: none;
+  margin-left: 8px;
+}
+
+.btn1:hover {
+  background: gray;
+}
+
+#sidebar-2 {
+  margin-left: 130px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 19px;
+}
+
+.name {
+  margin-top: -170px;
+  margin-left: 230px;
+}
+
+.sdb-kiri-1 {
+  display: block;
+  margin-left: 30px;
+  line-height: 19px;
+}
+
+label {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.btn2 {
+  font-weight: bold;
+  border-radius: 0.2rem;
+  padding: 0.4rem 0.4rem;
+}
+
+.btn2:hover {
+  background: gray;
+}
+
+#formname {
+  display: none;
+  color: blue;
+}
+
+#form {
+  background-color: white;
+  padding: 215x;
+  border-radius: 5px;
+}
+
+#form-nama {
+  display: none;
+}
